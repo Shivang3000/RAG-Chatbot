@@ -1,0 +1,11 @@
+HR Assignment
+    |
+    +--app
+    |   |
+    |   +--app.py
+    |   +--ui.py
+    |   +--.env
+    |
+    +--data
+        |
+        +--Ebook_Agentic_AI.pdf
